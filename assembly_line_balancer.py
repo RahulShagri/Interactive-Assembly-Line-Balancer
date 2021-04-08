@@ -20,7 +20,9 @@ with window("Main"):
     set_style_frame_rounding(5.0)
 
     # Colour
-    set_theme_item(mvGuiCol_TextDisabled, 143, 143, 143, 255)
+    set_theme_item(mvGuiCol_TextDisabled, 160, 160, 160, 255)
+    set_theme_item(mvGuiCol_ChildBg, 76, 76, 76, 255)
+    set_theme_item(mvGuiCol_TitleBgActive, 48, 48, 48, 255)
 
     # adding a menu bar
     with menu_bar("Main menu bar"):
