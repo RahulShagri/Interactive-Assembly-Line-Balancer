@@ -1,6 +1,6 @@
 # Interactive Assembly Line Balancer
 
-A python based GUI to add multiple tasks and link them together to create and balance an assembly line by assigning tasks to various workstations so as to achieve the desired output rate with the smallest number of workstations according to the longest or shortest work element rule.
+A python based GUI built using [Dear PyGui Python GUI Framework](https://pypi.org/project/dearpygui/) to add multiple tasks and link them together to create and balance an assembly line by assigning tasks to various workstations so as to achieve the desired output rate with the smallest number of workstations according to the longest or shortest work element rule.
 
 This helps create well-balanced workloads for each workstation and minimizes bottlenecks.
 
