@@ -40,4 +40,4 @@ This helps create well-balanced workloads for each workstation and minimizes bot
 
 13. If you wish to save the assembly line, you can go to File > Save assembly line. Similarly, you can open an assembly line by going to File > Open assembly line*
 
-* Due to the limitations of the GUI framework being used, the tasks are added one over each other after the assembly line is opened. You need to drag all the tasks to their respective places for a better view of the line
+*Due to the limitations of the GUI framework being used, the tasks are added one over each other after the assembly line is opened. You need to drag all the tasks to their respective places for a better view of the line
