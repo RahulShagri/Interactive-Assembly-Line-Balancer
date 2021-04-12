@@ -121,4 +121,3 @@ def calculate_solution(task_data: list, cycle_time: float, priority: int):
         add_text(f"Efficiency of assembly line = {round(efficiency, 2)}%")
         time.sleep(0.02)
         add_text(f"Balance delay = {round(100 - efficiency, 2)}%")
-

@@ -403,8 +403,8 @@ def refresh_data():
         add_dummy(height=10, before="Precedence table child window")
         configure_item("Calculate", enabled=True, tip="Calculate solution")
 
-    # else:
-    #     configure_item("Calculate", enabled=False, tip="Please resolve all errors")
+    else:
+        configure_item("Calculate", enabled=False, tip="Please resolve all errors")
 
     refresh_assembly_parameters()
 
