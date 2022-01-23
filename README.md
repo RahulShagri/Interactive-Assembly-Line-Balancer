@@ -1,6 +1,6 @@
 # Interactive Assembly Line Balancer
 
-__*Note: Since the release of this app, Dear PyGui has been updated considerably. This app will not run in the newer versions of Dear PyGui. Please note that this app is not being maintained currently.*__
+:warning: __*Note: Since the release of this app, Dear PyGui has been updated considerably. This app will not run in the newer versions of Dear PyGui. Please note that this app is not being maintained currently.*__
 
 A python based GUI built using [Dear PyGui Python GUI Framework](https://pypi.org/project/dearpygui/) to add multiple tasks and link them together to create and balance an assembly line by assigning tasks to various workstations to achieve the desired output rate with the smallest number of workstations according to the longest or shortest work element rule.
 
